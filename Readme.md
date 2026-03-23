@@ -16,11 +16,11 @@
 
 ## 📸 Aperçu / Preview
 
-| 🔧 Montage physique / Hardware | 🌐 Interface web / Web UI | 💻 Arduino IDE |
-|:---:|:---:|:---:|
-| ![Montage](Images\Montage_réalisé2026-03-23.jpg) | ![Interface](Images\Screenshot 2026-03-23.png) | ![IDE](Images\Screenshot1 2026-03-23.png) |
-
----
+<p float="left">
+  <img src="Montage_réalisé2026-03-23.jpg" width="280"/>
+  <img src="Screenshot 2026-03-23.png" width="280"/>
+  <img src="Screenshot1 2026-03-23.png" width="280"/>
+</p>
 
 ## 📖 Description
 
